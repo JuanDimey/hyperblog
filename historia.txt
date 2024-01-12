@@ -4,6 +4,6 @@ Tengo 34 años y nací en Colombia
 
 Estoy aprendiendo git, aunque ya hice un curso sobre terminal.
 
-Soy ingeniero industrial.
+Soy ingeniero industrial de la Universidad de Ibagué.
 
 Hoy soy líder de un equipo.
